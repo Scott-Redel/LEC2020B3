@@ -7,7 +7,7 @@
 % Initializing a row vector
 vec1 = [1 2 3 4 5]
 
-vec2 = [1,2, 3,4,5]
+vec2 = [1, 2, 3, 4, 5]
 
 
 
